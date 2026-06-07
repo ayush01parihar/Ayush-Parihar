@@ -5,7 +5,7 @@ Business & Data Analyst | SQL • Excel • Tableau • Power BI | MBA in Busine
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/preeti-birajdar-06723b20a/" target="_blank">
+  <a href="https://www.linkedin.com/in/ayushparihar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -16,7 +16,7 @@ Business & Data Analyst | SQL • Excel • Tableau • Power BI | MBA in Busine
 
 I am a Business and Data Analyst currently working with **Metropoltian Transportation Authority NYCT**, where I support data-driven decision-making through reporting, dashboarding, KPI tracking, and operational analysis.
 
-I hold an **MBA in Business Analytics from Pace University, New York City**, and I am passionate about transforming raw data into actionable business insights.
+I hold an **New Jersey Institute of Technology, NJ, USA**, and I am passionate about transforming raw data into actionable business insights.
 
 ### What I focus on:
 - 📊 Business Intelligence and Dashboard Development
@@ -59,32 +59,12 @@ I hold an **MBA in Business Analytics from Pace University, New York City**, and
 
 ---
 
-## 📌 Featured Portfolio Projects
-
-### 🚍 [Transit Reliability Insights: MDBF & Road Call Analysis](https://github.com/PreetiBirajdar/Transit-Reliability-Insights-MDBF-Road-Call-Analysis)
-**Tools:** Tableau, Excel  
-**Focus:** Transit reliability, failure analysis, borough-level performance, KPI monitoring
-
-### 🚌 [Bus Lifecycle & Retirement Strategy](https://github.com/PreetiBirajdar/Bus-Lifecycle-Retirement-Strategy)
-**Tools:** Excel, Power BI  
-**Focus:** Fleet asset management, replacement planning, lifecycle strategy
-
-### ⚡ [EV Charging Network Expansion Strategy](https://github.com/PreetiBirajdar/EV-Charging-Network-Expansion-Strategy)
-**Tools:** SQL, Excel, Power BI  
-**Focus:** Infrastructure planning, demand assessment, network expansion strategy
-
-### 🚗 [Tourist Demand Forecasting & Car Rental Pricing Strategy](https://github.com/PreetiBirajdar/Tourist-Demand-Forecasting-Car-Rental-Pricing-Strategy)
-**Tools:** SQL, Excel, Tableau  
-**Focus:** Forecasting, pricing analytics, tourism trends, revenue strategy
-
----
-
 ## 🎓 Education
 
-**MBA in Business Analytics**  
-Pace University, New York City, USA
+**Master's in Data Science**  
+New Jersey Institute of Technology, NJ, USA
 
-**Bachelor of Engineering in Information Technology**  
+**Bachelor of Engineering in Mechanical Engineering**  
 University of Mumbai, India
 
 ---
@@ -98,23 +78,16 @@ University of Mumbai, India
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetibirajdar&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetibirajdar" height="165" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
 <p align="center">
   <strong>Contact Me:</strong>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:ayush01ytparihar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/preeti-birajdar-06723b20a/" target="_blank">
+  <a href="[https://www.linkedin.com/in/preeti-birajdar-06723b20a/](https://www.linkedin.com/in/ayushparihar/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Preeti%20Birajdar-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
