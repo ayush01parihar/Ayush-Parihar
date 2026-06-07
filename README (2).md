@@ -12,7 +12,7 @@ Business & Data Analyst | SQL • Excel • Tableau • Power BI | New Jersey In
 
 ---
 
-## 👩‍💼 About Me
+## 👨🏻‍💼 About Me
 
 I am a Business and Data Analyst currently working with **Metropoltian Transportation Authority NYCT**, where I support data-driven decision-making through reporting, dashboarding, KPI tracking, and operational analysis.
 
