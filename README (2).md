@@ -78,8 +78,6 @@ University of Mumbai, India
 
 ---
 
-
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -87,8 +85,8 @@ University of Mumbai, India
   <a href="mailto:ayush01ytparihar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/preeti-birajdar-06723b20a/](https://www.linkedin.com/in/ayushparihar/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Preeti%20Birajdar-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/ayushparihar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Parihar-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
