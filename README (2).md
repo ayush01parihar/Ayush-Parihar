@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Preeti Birajdar</h1>
+<h1 align="center">Hi 👋, I'm Ayush Parihar</h1>
 
 <h3 align="center">
 Business & Data Analyst | SQL • Excel • Tableau • Power BI | MBA in Business Analytics
